@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "name": "Appetizers",
+      "items": [
+        {
+          "name": "Chips and Salsa",
+          "description": "Crispy chips served with fresh salsa.",
+          "price": "TBD"
+        },
+        {
+          "name": "Frito Pie",
+          "description": "A bowl of Fritos topped with chili and cheese.",
+          "price": "TBD"
+        },
+        {
+          "name": "Stuffed Sopapillas",
+          "description": "Fluffy sopapillas filled with savory goodness.",
+          "price": "TBD"
+        }
+      ]
+    },
+    {
+      "name": "Entrees",
+      "items": [
+        {
+          "name": "Chicken Enchiladas Easy Green",
+          "description": "Delicious enchiladas smothered in green chili sauce.",
+          "price": "TBD"
+        },
+        {
+          "name": "Green Chile Cheeseburger and Fries",
+          "description": "Juicy cheeseburger topped with green chiles and served with fries.",
+          "price": "TBD"
+        },
+        {
+          "name": "Breakfast Burrito",
+          "description": "A hearty burrito filled with scrambled eggs, bacon, and cheese.",
+          "price": "TBD"
+        },
+        {
+          "name": "Huevos Rancheros Green Chile",
+          "description": "Two eggs served on corn tortillas with green chile.",
+          "price": "TBD"
+        },
+        {
+          "name": "Chili Cheese",
+          "description": "Chili topped with melted cheese.",
+          "price": "TBD"
+        },
+        {
+          "name": "Torpedo",
+          "description": "A loaded sandwich with various fillings.",
+          "price": "TBD"
+        }
+      ]
+    },
+    {
+      "name": "Specialties",
+      "items": [
+        {
+          "name": "Chile Rellenos",
+          "description": "Stuffed peppers with cheese, deep-fried to perfection.",
+          "price": "TBD"
+        },
+        {
+          "name": "Grilled Roast Beef Tacos",
+          "description": "Tacos filled with tender grilled roast beef.",
+          "price": "TBD"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "source": "firecrawl_scrape_json",
+    "sourceUrl": "https://durans-station.res-menu.net",
+    "extractedAt": "2026-03-17T23:17:52.983Z",
+    "itemCount": 11,
+    "categoryCount": 3
+  }
+}

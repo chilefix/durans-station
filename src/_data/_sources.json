@@ -5,18 +5,18 @@
   },
   "client.foundingYear": {
     "value": "",
-    "source": "https://duransstation.com"
+    "source": "https://durans-station.res-menu.net/"
   },
   "client.domain": {
     "value": "",
-    "source": "https://duransstation.com"
+    "source": "https://durans-station.res-menu.net/"
   },
   "client.socials.facebook": {
-    "value": "https://www.facebook.com/groups/albuquerquefoodies/posts/1321043249087097/",
+    "value": "https://www.facebook.com/Durans-Station-390426274307319/",
     "source": "serper"
   },
   "client.socials.instagram": {
-    "value": "https://www.instagram.com/p/DQZpejmjzA_/",
+    "value": "https://www.instagram.com/reel/DJp_QaSN0Cu/",
     "source": "serper"
   },
   "client.socials.google": {
@@ -29,7 +29,7 @@
   },
   "contact.email": {
     "value": "",
-    "source": "https://duransstation.com"
+    "source": "https://durans-station.res-menu.net/"
   },
   "contact.phoneForTel": {
     "value": "505-830-0007",
@@ -68,27 +68,105 @@
     "source": "google-places"
   },
   "hero.heroImage": {
-    "value": "/api/place-photo?ref=ATCDNfXjJ8Ag_9nqTRwddDM_FBd01W3ClpYw8RKFDv83GY37c1TNDdp9qONQVrWV-dbrEvW2Z-XQ8NxfHAw5nerSW8JOU-ym7mdiZXwCcizs1rNkl1t9kTvytkxf5yui4oLt84DQ8t2UiGN58BlxIOejGg_6Rs_Oj0EYVU1iosDP_c4nC1JsGsDj_bJsiyrTrOxn6p2ZtlEVCgEc8e_STnAUek75YY6Y_FEJtKaJl4CFrCPz-neHxyL5B3T0oPGAqVbLbwDQGlJ1QnmRGEvH3FQg79Iu5ps8xTOtrk1YP7Cs1cHU1-08Ha3V0LG71VKvKmfn_jsm8GirEA7_Y2-7vbgdTqTkD1kdRD3iBiHwPHll35L2paYucri7y0PfSGfzilrTUXIqUTS2FtKuxTJP_aoh7BCbKigbOQDt3ZRMoeU9JhEPCw",
-    "source": "google-places"
+    "source": "serper_images",
+    "url": "https://sfreporter.com/downloads/67822/download/duransstation.jpg?cb=1abf62e0ad3fdd28a10ad0432caadab5&w=4000",
+    "domain": "sfreporter.com",
+    "score": 0.9
   },
   "hero.heroTagline": {
-    "value": "Authentic New Mexican Flavors, Family-Owned Tradition",
+    "value": "Authentic New Mexican Flavors, Family Owned",
     "source": "copy_agent"
   },
   "hero.heroSubtitle": {
-    "value": "Experience the true taste of Albuquerque with our beloved New Mexican cuisine, crafted with passion for generations.",
-    "source": "copy_agent"
+    "value": "Where every dish tells a story of tradition, crafted with local ingredients and a passion for genuine New Mexican hospitality.",
+    "source": "qa_fix"
   },
   "alert.text": {
     "value": "",
     "source": "unknown"
   },
   "brand.primaryColor": {
-    "value": "#1a6b4a",
-    "source": "default"
+    "value": "#722f37",
+    "source": "palette"
+  },
+  "brand.accentColor": {
+    "value": "#f2e8c9",
+    "source": "palette"
+  },
+  "brand.paletteName": {
+    "value": "burgundy-cream",
+    "source": "palette"
   },
   "_aboutBody": {
-    "value": "Duran's Station has been a cherished part of the Albuquerque community, serving up authentic New Mexican dishes with a homemade touch. We pride ourselves on creating a welcoming atmosphere where friends and family can gather to enjoy delicious, traditional meals.",
-    "source": "copy_agent"
+    "value": "For over three decades, Duran's Station has been a cornerstone of Albuquerque's culinary scene, renowned for preserving and perfecting traditional New Mexican cuisine. Our commitment to using locally sourced chiles and time-honored family recipes ensures an authentic taste experience you won't find anywhere else. We invite you to become part of our family tradition, where every meal is a celebration of our heritage.",
+    "source": "qa_fix"
+  },
+  "_seoSources.pageTitle": {
+    "value": "Duran's Station | Authentic New Mexican Restaurant in Albuquerque, NM",
+    "source": "seo_agent"
+  },
+  "_seoSources.metaDescription": {
+    "value": "Experience authentic New Mexican flavors at Duran's Station, a family-owned restaurant in Albuquerque, NM. Enjoy traditional dishes made with local chiles and t",
+    "source": "seo_agent"
+  },
+  "_seoSources.schemaType": {
+    "value": "Restaurant",
+    "source": "industry_mapping"
+  },
+  "serviceImages": {
+    "industry": "restaurant",
+    "source": "serper_images",
+    "serperCount": 4,
+    "r2Count": 0
+  },
+  "seo.pageTitle": {
+    "value": "Duran's Station | Authentic New Mexican Restaurant in Albuquerque, NM",
+    "source": "seo_agent"
+  },
+  "seo.metaDescription": {
+    "value": "Experience authentic New Mexican flavors at Duran's Station, a family-owned restaurant in Albuquerque, NM. Enjoy traditional dishes made with local chiles and t",
+    "source": "seo_agent"
+  },
+  "schema.type": {
+    "value": "Restaurant",
+    "source": "industry_mapping",
+    "matchedSynonym": "restaurant"
+  },
+  "webResearch.googleMaps": {
+    "source": "serper_maps",
+    "reviewCount": 0
+  },
+  "webResearch.images": {
+    "source": "serper_images",
+    "count": 10
+  },
+  "webResearch.yelp": {
+    "source": "firecrawl",
+    "url": "https://www.yelp.com/biz/durans-station-albuquerque"
+  },
+  "webResearch.facebook": {
+    "source": "firecrawl_failed",
+    "url": "https://www.facebook.com/p/Durans-Station-100063573939940/"
+  },
+  "webResearch.instagram": {
+    "source": "firecrawl_failed",
+    "url": "https://www.instagram.com/duransstation/"
+  },
+  "webResearch.bbb": {
+    "source": "not_found"
+  },
+  "webResearch.sos": {
+    "source": "firecrawl_failed",
+    "url": "https://www.facebook.com/groups/albuquerquefoodies/posts/1510937420097678/"
+  },
+  "menu": {
+    "source": "firecrawl_scrape_json",
+    "url": "https://durans-station.res-menu.net",
+    "categories": 3,
+    "items": 11
+  },
+  "delivery.doordash": {
+    "source": "serper_search",
+    "url": "https://www.doordash.com/store/duran-s-station-albuquerque-263817/?srsltid=AfmBOopBaivic3QdML8o4GbWn2wWZgJFol8x4youDm2BuOMFdLJgr6MB"
   }
 }
